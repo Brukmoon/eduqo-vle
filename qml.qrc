@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CourseDelegate.qml</file>
+        <file>CourseSearch.qml</file>
+        <file>LoginPage.qml</file>
+        <file>CourseView.qml</file>
+        <file>CourseList.qml</file>
+        <file>Settings.qml</file>
+    </qresource>
+</RCC>
