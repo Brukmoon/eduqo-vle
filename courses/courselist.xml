@@ -1,0 +1,45 @@
+<?xml version="1.0"?> 
+<courseList>
+   <course>
+      <title>C++ programming</title>
+	  <category>Information Technologies</category>
+	  <author>Michal H.</author>
+	  <source>/Test1</source>
+   </course>
+   <course>
+      <title>Molecular biology</title>
+	  <category>Biology</category>
+	  <author>John V.</author>
+	  <source>/Test2</source>
+   </course>
+   <course>
+      <title>21st century literature</title>
+	  <category>Literature</category>
+	  <author>Sarah G.</author>
+	  <source>/Test3</source>
+   </course>
+   <course>
+      <title>Applied mathematics</title>
+	  <category>Math</category>
+	  <author>Thomas F.</author>
+	  <source>/Test4</source>
+   </course>
+   <course>
+      <title>Foundations of Business Strategy</title>
+	  <category>Economy</category>
+	  <author>Michael J. Lenox</author>
+	  <source>/Test5</source>
+   </course>
+   <course>
+      <title>Introduction to Financial Accounting</title>
+	  <category>Economy</category>
+	  <author>Brian J Bushee</author>
+	  <source>/Test6</source>
+   </course>
+   <course>
+      <title>How to teach us</title>
+	  <category>Pedagogy</category>
+	  <author>Larry Rosenstock</author>
+	  <source>/Test7</source>
+   </course>
+</courseList>
